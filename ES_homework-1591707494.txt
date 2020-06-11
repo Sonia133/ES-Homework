@@ -5,7 +5,7 @@
 #         What is sharding and why is it used in ES
 Shards help indices store data phisically.
 Sharding separates large databases in smaller and faster databases which are easier to work with called data shards.
-ELasticsearch uses shards exactly for space management, when the size of an index might be too big, and asa a result it can also increase performance.
+ELasticsearch uses shards exactly for space management, when the size of an index might be too big, and as a result it can also increase performance.
 
 ##################################################################################
 #                  As an ES deployment you can use                               #
